@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    My First collab session
+                    Test App
                 </div>
 
                 <div class="links">
