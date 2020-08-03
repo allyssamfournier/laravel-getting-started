@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    My New App
+                    My First collab session
                 </div>
 
                 <div class="links">
